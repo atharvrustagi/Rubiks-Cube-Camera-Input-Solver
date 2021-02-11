@@ -1,5 +1,5 @@
 # Rubiks-Cube-Camera-Input-Solver
-This is a Rubik's Cube solver implementation using Opencv-python and Kociemba module. Scan the cube through your camera, and find the solution through a animation of the solve!
+This is a Rubik's Cube solver implementation using Opencv-python and Kociemba module. Scan the cube through your camera, and find the solution through an animation of the solving steps.
 
 The instructions are on-screen with an easy to understand GUI.
 
