@@ -7,7 +7,7 @@ The instructions are on-screen with an easy to understand GUI.
 
 ## Language used - Python
 
-## Packages Used - Kociemba, opencv, Numpy, Pygame
+## Packages Used - Kociemba, Opencv, Numpy, Pygame
 
 ### Screenshots from the application
 
